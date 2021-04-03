@@ -63,10 +63,7 @@ http://rv.imax.re:80/307277240317/307277240317/87123
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png" group-title="ALTERNATIVO", TELEFE ROSARIO
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png", CANAL 13 
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvIEPBTWfkWEpa96-Q9AeRCY5DfzaqdppGxCfeGhENhDUyFSdFocPuacFgnNlAa5VhQYUvqmSmcz67kBWiI8419c64DZpc8fDsJo3Iv0j3SHmI_fYIf0BCyrC8RG2xK3jA3ql7Sn3r25T64JRg4MgrKPFSDpU0G8JghhQiE9VUAqBf5fsMgBU9Lifgl-PYY3OHgj-bawrmSbvqLsFy1XgNa9j0OY6yP2MadaSdxayjOcT76cJ5OLnlMGX4kfd7y87pNdJZsSai5fr5peDZFiIpgBzLWpnGKyZKCTswrcBHsx5Z4RmlyLdjXWFNa7-hNsPIKeVXsenZfyCxOu2HiOnpXqZ6qNXKDaWpZaNaptICnxjc3okPNjHrjs2uxDkAgI9fRE-JjnPmOW01aglPYNyUSJMlq4xMqKVuXXGCvKcmvr-xRWU5C6AWA5BYHjYbyOj1fm556iFT4xvw6jGBbDfPPL8ZH1c3pWCGnGwwCdOsuEiYd6JIAmTBqNYnOaCtbh5BrLHqtUu0OF8L-ft8lFfOKDajGu7WdM1yfJIUX6Vh2w1lMz_C2fKFgtQzdk8uNXbo9B4YjEZsohhWncU49ZcrhP8o-Eraril0SzUVFBR9q4Ol5g4k9DARIX8xD0_BT7eGRYwaLn3XnY4Gv3qDwHIhsfuZE3HN8XCCFMsBNVAY9s6Ha5459noWy5oQc66g8Wx7Tqx8wvMcQxZt2oemFdZK187G2Dd_ldRTj2uhJ2BKCKZo7DIxPECcnZXxAywSC_axizyz3eqlLhSZWT0eC6ThVnKHUJcTAb-eq6dFI2ddzWdK6AZziuwaYV0-P-HeOUD7H4KfgSEHSekUbmOL30uVNoCz0gfdYaDK3qKXX5vJIpXUhaHA.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="ALTERNATIVO", CANAL 13 A
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title=, CANAL 13 
 http://rv.imax.re:80/307277240317/307277240317/87122
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg", NET TV 
