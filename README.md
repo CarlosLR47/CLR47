@@ -51,6 +51,9 @@ https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title=, CANAL 9 A
 http://rv.imax.re:80/307277240317/307277240317/87121
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title=, CANAL 9 Oficial
+https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/f2fcfc3e-6f28-477e-b92b-ca4430e247d6/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3NjQzMzc0LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS4zIiwid2hpdGVsaXN0IjpbIjI4MDA6ODEwOjQ3MTo4N2M1OjRkMDk6MjgyZjo1Mzk0OjE1YTUiXX0sInNpZ25hdHVyZSI6ImQyODliOWQ1Y2Q4YWMzOGVhMjY0OWRiMzk2NTk4ZGU4MWNhZmU2OTgifQ%3D%3D
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ALTERNATIVO", TELEFE A
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050 
 
