@@ -98,13 +98,3 @@ https://sv.tsnt.xyz/espn/espn1o_sur_c.m3u8?161563806
 
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
 https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8?161563826
-
-#EXTINF:-1   group-title=, El-Gourmet
-https://blackghost.live/play/teleclub-318.php?c=la-el-gourmet&f=.m3u8
-
-#EXTINF:0,CNN Español
-http://nano.zappingtv.com:1935/cnnes/cnnesmobile.smil/chunklist_b1128000_sles.m3u8
-https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8?161563826
-
-#EXTINF:0,El Gourmet
-http://nano.zappingtv.com:1935/gourmet/gourmet.smil/chunklist_b4128000_sles.m3u8
