@@ -45,6 +45,12 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTINF:-1 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg" group-title=, TV PUBLICA 
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title=, CANAL 9 
+https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/d7bc2e40-10b6-4f43-8f47-84076bcc43ee/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3NjIzOTI1LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6OWU5OTpiNDUzOmRjZTI6OTdmZDo5YjljIiwiMTkwLjEzOC4xNi43MyIsIjQ1LjIyOC4xODkuMTM0Il19LCJzaWduYXR1cmUiOiJlZjhiMGRkNjAzZDY3MzA3ZjA1MzlhNjI4YjE3Y2U1ZjcyZWFhYjNjIn0%3D
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title=, CANAL 9 A
+http://rv.imax.re:80/307277240317/307277240317/87121
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ALTERNATIVO", TELEFE A
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050 
 
