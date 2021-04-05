@@ -30,13 +30,13 @@ https://www.youtube.com/watch?v=kt43n3r1jJo
 #EXTINF:-1, LN+ 
 https://www.youtube.com/watch?v=ns8-5XKA0Ww
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title=, CANAL DE LA CIUDAD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg", CANAL DE LA CIUDAD
 https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8
 
 #EXTINF:-1, CANAL ENCUENTRO   
 https://www.youtube.com/watch?v=Frz3iEwVKbs
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title=, AMERICA HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", AMERICA HD 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="ALTERNATIVO", AMERICA A
