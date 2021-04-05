@@ -9,31 +9,31 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title=, IP 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg", IP 
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title=, CRONICA HD 
+#EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png", CRONICA HD 
 https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", CANAL 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w900812812_b1864000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title=, A24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png", A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
-#EXTINF:-1 group-title=, TODO NOTICIAS   
+#EXTINF:-1, TODO NOTICIAS   
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 
-#EXTINF:-1 group-title=, C5N 
+#EXTINF:-1, C5N 
 https://www.youtube.com/watch?v=kt43n3r1jJo
 
-#EXTINF:-1 group-title=, LN+ 
+#EXTINF:-1, LN+ 
 https://www.youtube.com/watch?v=ns8-5XKA0Ww
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title=, CANAL DE LA CIUDAD
 https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8
 
-#EXTINF:-1 group-title=, CANAL ENCUENTRO   
+#EXTINF:-1, CANAL ENCUENTRO   
 https://www.youtube.com/watch?v=Frz3iEwVKbs
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title=, AMERICA HD 
@@ -42,16 +42,16 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="ALTERNATIVO", AMERICA A
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
  
-#EXTINF:-1 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg" group-title=, TV PUBLICA 
+#EXTINF:-1 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg", TV PUBLICA 
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title=, CANAL 9 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg", CANAL 9 
 https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/d7bc2e40-10b6-4f43-8f47-84076bcc43ee/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3NjIzOTI1LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6OWU5OTpiNDUzOmRjZTI6OTdmZDo5YjljIiwiMTkwLjEzOC4xNi43MyIsIjQ1LjIyOC4xODkuMTM0Il19LCJzaWduYXR1cmUiOiJlZjhiMGRkNjAzZDY3MzA3ZjA1MzlhNjI4YjE3Y2U1ZjcyZWFhYjNjIn0%3D
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title=, CANAL 9 A
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg", CANAL 9 A
 http://rv.imax.re:80/307277240317/307277240317/87121
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title=, CANAL 9 Oficial
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg", CANAL 9 Oficial
 https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/f2fcfc3e-6f28-477e-b92b-ca4430e247d6/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3NjQzMzc0LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS4zIiwid2hpdGVsaXN0IjpbIjI4MDA6ODEwOjQ3MTo4N2M1OjRkMDk6MjgyZjo1Mzk0OjE1YTUiXX0sInNpZ25hdHVyZSI6ImQyODliOWQ1Y2Q4YWMzOGVhMjY0OWRiMzk2NTk4ZGU4MWNhZmU2OTgifQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ALTERNATIVO", TELEFE A
@@ -60,10 +60,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ALTERNATIVO", TELEFE A
 http://rv.imax.re:80/307277240317/307277240317/87123
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png" group-title=, TELEFE ROSARIO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png", TELEFE ROSARIO
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title=, CANAL 13 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png", CANAL 13 
 http://rv.imax.re:80/307277240317/307277240317/87122
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg", NET TV 
@@ -72,7 +72,7 @@ http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw", GEN TV 
 https://videohd.live:19360/8010/8010.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title=, KZO
+#EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602", group-title="INTERNACIONAL", FRANCE 24 
@@ -98,3 +98,6 @@ https://sv.tsnt.xyz/espn/espn1o_sur_c.m3u8?161563806
 
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
 https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8?161563826
+
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:CNN en EspaÃ±ol" tvg-logo="" group-title="INTERNACIONAL",MrZutv.net:CNN en EspaÃ±ol
+http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/279.ts
