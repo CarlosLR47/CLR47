@@ -102,4 +102,4 @@ https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8?161563826
 http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/279.ts
 
 #EXTINF:-1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg", EL GOURMET
-https://he47.static.reallifecam.com/hls/landing/e43f018/28_8/playlist.m3u8?uid=e43f018&stamp=1617643106&token=7deacf99bed7c86d7d190dd65a0775c3&session=f4cebb3735b1b1f076c2707218ea42cb&stop
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/sbljidzeqov0.m3u8?s=xd3q78KiqwSX3Oq1QWnM0g&e=1617665206
