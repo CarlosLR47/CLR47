@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=wHn1_QVoXGM
 #EXTINF:-1 tvg-logo="http://c5nenvivo.com.ar/wp-content/uploads/2020/06/C5NLOGO2017.png", C5N 
 https://www.youtube.com/watch?v=kt43n3r1jJo
 
-#EXTINF:-1 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9V7gBuwygbV0nvsERXgZt1qXTi6tH3Lz_kw&usqp=CAU", LN+ 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ns8-5XKA0Ww/maxresdefault_live.jpg", LN+ 
 https://www.youtube.com/watch?v=ns8-5XKA0Ww
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg", CANAL DE LA CIUDAD
