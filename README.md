@@ -45,13 +45,7 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg", CANAL 9 
-https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/d7bc2e40-10b6-4f43-8f47-84076bcc43ee/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3NjIzOTI1LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6OWU5OTpiNDUzOmRjZTI6OTdmZDo5YjljIiwiMTkwLjEzOC4xNi43MyIsIjQ1LjIyOC4xODkuMTM0Il19LCJzaWduYXR1cmUiOiJlZjhiMGRkNjAzZDY3MzA3ZjA1MzlhNjI4YjE3Y2U1ZjcyZWFhYjNjIn0%3D
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg", CANAL 9 A
 http://rv.imax.re:80/307277240317/307277240317/87121
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg", CANAL 9 Oficial
-https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/f2fcfc3e-6f28-477e-b92b-ca4430e247d6/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3NjQzMzc0LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS4zIiwid2hpdGVsaXN0IjpbIjI4MDA6ODEwOjQ3MTo4N2M1OjRkMDk6MjgyZjo1Mzk0OjE1YTUiXX0sInNpZ25hdHVyZSI6ImQyODliOWQ1Y2Q4YWMzOGVhMjY0OWRiMzk2NTk4ZGU4MWNhZmU2OTgifQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ALTERNATIVO", TELEFE A
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050 
