@@ -18,7 +18,7 @@ https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w900812812_b1864000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png", A24
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/d9daf22e-0ae1-42ad-9c4c-6a6c99a2ccbe:SCL/variant/ce563c014bc1e04c56eadc113791b41a/bandwidth/850000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEDjGen1cm6xr5fCCTy5YzzkE64p5WB4TVyw&usqp=CAU", TN
 https://www.youtube.com/watch?v=wHn1_QVoXGM
