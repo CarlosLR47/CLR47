@@ -8,7 +8,6 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="INTERNACIONAL", Galicia TV
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg", IP 
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 
@@ -21,13 +20,13 @@ https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w900812812_b1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png", A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
-#EXTINF:-1, TODO NOTICIAS   
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEDjGen1cm6xr5fCCTy5YzzkE64p5WB4TVyw&usqp=CAU", TN
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 
-#EXTINF:-1, C5N 
+#EXTINF:-1 tvg-logo="http://c5nenvivo.com.ar/wp-content/uploads/2020/06/C5NLOGO2017.png", C5N 
 https://www.youtube.com/watch?v=kt43n3r1jJo
 
-#EXTINF:-1, LN+ 
+#EXTINF:-1 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9V7gBuwygbV0nvsERXgZt1qXTi6tH3Lz_kw&usqp=CAU", LN+ 
 https://www.youtube.com/watch?v=ns8-5XKA0Ww
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg", CANAL DE LA CIUDAD
