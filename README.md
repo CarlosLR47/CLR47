@@ -34,17 +34,7 @@
 	http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
   #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png",America HD
 	http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
-  #EXTINF:-1 tvg-logo="https://www.nme.com/discount-codes/vfiles/46676/merchant_image-merchant_logo_large.png",SPORT
-	http://45.6.4.154
-	#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.5ab72f023b983_ClaroSports.png.7a8910006bbbaf0136627622d8323cc6.png",CLARO SPORT YUO TUVE
-	https://www.youtube.com/watch?v=dDyvpgDetIk
-	#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/goltv-1650.png", GOLTV HD
-	http://redcoliptv.com:8090/juanfernando/juanfernando/2689
-	#EXTINF:-1 tvg-logo="https://facturaenlinea.co/wp-content/uploads/2016/03/winsports-bn.png",WIN HD
-	https://teleclub.xyz/tv/canal?tele=WIN_SPORT_HD&format=.m3u8
-	#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tyc-sports.png",TyC Sports HD
+  	#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tyc-sports.png",TyC Sports HD
 	http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/30054
 	#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tyc-sports.png",TyC Sports 
 	http://89.105.194.59:25461/live/spfut$90/spfut$90/120.m3u8
-	#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BbtjSmTfOUM/WfvFBX3No8I/AAAAAAAAAxQ/eMjY5mo9CJg-mKSwDMU9IQEtjfjuyy3KACLcBGAs/s1600/tntsports.png",TNT SPOht HD
-https://github.com/iptvcrugalde/iptvcrlatina./blob/main/www.iptvcrlatina.raw.cineLivestream.m3u
