@@ -20,23 +20,6 @@
 	#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/609px-Canal_Trece_San_Luis_%28Logo_2016%29.png/revision/latest/scale-to-width-down/340?  cb=20191120203521", CANAL 13 SAN LUIS
 	https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w22689037_b581072.m3u8
 	#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/22bd61a5-ed59-497e-ad73-67b7ac9d293c-profile_image-300x300.png",LATINATV 42.1 DE LA TDA.HD
-	
-	#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzCFgO7dVurNKMiJjgCSQkaCLwVu_husCxVzon8NgO7W093gHgw",EUROPA EUROPA EUROPA FUL_HD
-	http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
-	#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzCFgO7dVurNKMiJjgCSQkaCLwVu_husCxVzon8NgO7W093gHgw",EUROPA EUROPA 
-	http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
-	#EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png", EURO CHANNEL FUL-HD
-	
-	#EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
-	http://ipeteve.com/php/REGIO_PLAY_281119/regio22.php?c=isat&f=.m3u8
-	#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg", CINE AR.TV HD
-	https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w140296313.m3u8
-	#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-canal-7-jujuy-2978.jpg",CANAL 7 Jujuy
-	https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
-	#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3v0JfX-x7l_CBLGgk-PyioJ4pEOIlRkwaOA&usqp=CAU",CANAL 7 SALTA 
-	https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
-	#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Canal-8-Catamarca-en-vivo.png?resize=324%2C160", Canal 8 Catamarca
-	https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w1882978628.m3u8
 	#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",EL CANAL 9 HD
 	https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist_w857109780_b850000_slesp.m3u8
 	#EXTINF:-1 tvg-logo="https://elnueve-compress.s3-accelerate.amazonaws.com/files/1540224159808canal-nueve-buenos-aires.jpg",CANAL 9 HD
