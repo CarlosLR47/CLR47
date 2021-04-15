@@ -1,11 +1,9 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://peru.info/Portals/0/Images/MIPCOM/Productoras/1/7/logo.jpg", America HD
-	http://latiniptv.vip:8008/live/Cuentas3/Cuanta31/6386.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Jud10w2-cxdmYn9nt4KY5siUtaJJphmMaT0cLQCn7Xo8QFvCp-dGW7h5zX69wleuAa8=s180",ARGENTINA
-	http://127.0.0.1
-	#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1gHj_nLWhaGNfk5gYfEoENvdvYEEnrlFWCQ&usqp=CAU",CANAL 4
-	http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
-	#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-4.png",CANAL 4 POSADAS
+  #EXTM3U
+  #EXTINF:-1 tvg-logo="https://peru.info/Portals/0/Images/MIPCOM/Productoras/1/7/logo.jpg", America HD
+  http://latiniptv.vip:8008/live/Cuentas3/Cuanta31/6386.m3u8
+  #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1gHj_nLWhaGNfk5gYfEoENvdvYEEnrlFWCQ&usqp=CAU",CANAL 4
+  http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+  #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-4.png",CANAL 4 POSADAS
 	https://589ff3c36f7e8.streamlock.net/canal4/canal4/chunklist.m3u8?PlaylistM3UCL
 	#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108916_CANAL_5TV.jpg", CANAL 5TV
 	http://coninfo.net:1935/13maxhd/live_720p/chunklist_w1236577093.m3u8
@@ -19,7 +17,7 @@
 	https://stmv1.voxtvhd.com.br/tresargtv/tresargtv/chunklist_w1209878679.m3u8
 	#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZcUo2tNHLclj6aCa6SRgY8tbjL8xn-sD9IA&usqp=CAU", GEN TV HD
 	https://videohd.live:19360/8010/8010.m3u8?_=1
-	#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/609px-Canal_Trece_San_Luis_%28Logo_2016%29.png/revision/latest/scale-to-width-down/340?cb=20191120203521", CANAL 13 SAN LUIS
+	#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/609px-Canal_Trece_San_Luis_%28Logo_2016%29.png/revision/latest/scale-to-width-down/340?  cb=20191120203521", CANAL 13 SAN LUIS
 	https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w22689037_b581072.m3u8
 	#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/22bd61a5-ed59-497e-ad73-67b7ac9d293c-profile_image-300x300.png",LATINATV 42.1 DE LA TDA.HD
 	
@@ -51,9 +49,9 @@
 	https://contar1.c.s73cdn.net/d2c35dc9-a317-47fd-a323-796a1f42516f/elemental/live/master_480x270_446k.m3u8
 	#EXTINF:-1 tvg-logo="https://i.imgur.com/jEkH6Rj.png" group-title="TV ARGENTINA",TELEFE HD
 	http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
-	#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png",America HD
+  #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png",America HD
 	http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.nme.com/discount-codes/vfiles/46676/merchant_image-merchant_logo_large.png",SPORT
+  #EXTINF:-1 tvg-logo="https://www.nme.com/discount-codes/vfiles/46676/merchant_image-merchant_logo_large.png",SPORT
 	http://45.6.4.154
 	#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.5ab72f023b983_ClaroSports.png.7a8910006bbbaf0136627622d8323cc6.png",CLARO SPORT YUO TUVE
 	https://www.youtube.com/watch?v=dDyvpgDetIk
